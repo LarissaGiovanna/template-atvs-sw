@@ -111,6 +111,7 @@ dkms.conf
 *.dwo
 
 *.pgm
+/.vscode
 /testes
 /evidencias.log
 *.log
