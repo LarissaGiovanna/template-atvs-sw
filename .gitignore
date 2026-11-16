@@ -113,8 +113,9 @@ dkms.conf
 *.pgm
 /.vscode
 /testes
-/evidencias.log
 *.log
+!evidencias.log
 *.pf
 *.txt
 *.pdf
+!iniciais.pdf
